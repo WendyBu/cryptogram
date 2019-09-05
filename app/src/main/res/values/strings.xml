@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Crypto6300</string>
+    <!-- Strings related to login -->
+    <string name="screen_name_log_in_as">Log in as</string>
+    <string name="screen_name_home">Home</string>
+    <string name="screen_name_select_cryptogram">Select cryptogram</string>
+    <string name="screen_name_play_cryptogram">Play cryptogram</string>
+    <string name="screen_name_add_cryptogram">Add cryptogram</string>
+    <string name="screen_name_add_player">Add player</string>
+    <string name="screen_name_view_statistics">View stats</string>
+    <string name="screen_name_player_statistics">Player statistics</string>
+    <string name="prompt_username">username</string>
+    <string name="prompt_password">password</string>
+    <string name="prompt_first_name">first name</string>
+    <string name="prompt_last_name">last name</string>
+    <string name="action_log_in">Log in</string>
+    <string name="action_log_in_short">Log in</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_log_out">Log out</string>
+    <string name="action_save">Save</string>
+    <string name="error_invalid_username">This user name is invalid. It needs to contain at least one letter and one number.</string>
+    <string name="error_existing_username">This user name already exists. Please choose a different one.</string>
+    <string name="error_invalid_password">This password is too short; 8 characters minimum are required.</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_invalid_first_name">This first name is invalid. It needs to contain at least one letter.</string>
+    <string name="error_invalid_last_name">This last name is invalid. It needs to contain at least one letter.</string>
+    <string name="error_zero_solution_attempts">Minimum required solution attempts is 1.</string>
+
+    <string name="label_first_name">First Name</string>
+    <string name="label_num_wins">Number Won</string>
+    <string name="label_num_lost">Number Lost</string>
+    <string name="label_username">Username</string>
+    <string name="label_difficulty">Difficulty</string>
+
+    <string name="label_game_name">Game Name</string>
+    <string name="label_status">Status</string>
+
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="user_type_admin">Administrator</string>
+    <string name="user_type_player">Player</string>
+    <string name="unencrypted_phrase">unencrypted phrase</string>
+    <string name="maximum_number_solution_attempts">Maximum number of solution attempts: </string>
+    <string name="number_solution_attempts">number of attempts left: </string>
+    <string name="easy">easy</string>
+    <string name="medium">medium</string>
+    <string name="hard">hard</string>
+    <string name="cryptogram_name">Cryptogram Name</string>
+    <string name="encrypted_phrase">encrypted phase</string>
+    <string name="solution_attempt">solution attempt</string>
+    <string name="submit">submit</string>
+    <string name="error_no_such_user">no such user, please ask administrator to add you</string>
+    <string name="no_such_admin_account">no such administrator account</string>
+    <string name="account_not_match">account does not match our record</string>
+
+</resources>
